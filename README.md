@@ -1,10 +1,13 @@
 # JR NOTE: before pip install -r requirements.txt do the following
 ```
 pip install ninja, torch
+pip install torchvision
 sudo apt-get install python3-dev
 ```
 
-
+   ```bash
+   python convert.py --input PATH_TO_INPUT_VIDEO --out OUTPUT_VIDEO_PATH
+   ```
 
 
 

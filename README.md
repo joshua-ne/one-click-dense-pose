@@ -1,3 +1,14 @@
+# JR NOTE: before pip install -r requirements.txt do the following
+```
+pip install ninja, torch
+sudo apt-get install python3-dev
+```
+
+
+
+
+
+
 # One-Click Dense Pose
 
 ## Overview
